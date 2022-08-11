@@ -1,1 +1,1 @@
-# swap-icons
+# swap-icon
